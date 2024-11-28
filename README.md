@@ -18,16 +18,6 @@ Welcome to **Document-Pack** by **Venora Dev**! 🚀
 - [🗂️ Documentation](#-documentation)
   - [🏠 Home](./readme.md)
   - [🕸️ Django](./Django/readme.md)
-  - [🐳 Docker](./docker.md)
-  - [📊 Grafana](./grafana.md)
-  - [⚙️ Laravel API](./laravel_api.md)
-  - [🌐 Laravel on Nginx](./laravel_on_nginx.md)
-  - [📈 LibreNMS](./librenms.md)
-  - [🤖 Telegram Bot](./telegram_bot.md)
-  - [📉 Zabbix](./zabbix.md)
-  - [📊 Netdata](./netdata.md)
-  - [🖥️ Nginx](./nginx.md)
-  - [🔍 Nmap](./nmap.md)
 - [🛠️ Getting Started](#-getting-started)
 - [✨ Features](#-features)
 - [🤝 Contributing](#-contributing)
@@ -59,35 +49,7 @@ An introduction to **Document-Pack** and its objectives.
 ### 🕸️ [Django](./Django/readme.md)
 Comprehensive guide to setting up and developing with Django, a high-level Python web framework.
 
-### 🐳 [Docker](./docker.md)
-Detailed instructions on containerization using Docker, including best practices and advanced configurations.
 
-### 📊 [Grafana](./grafana.md)
-Setup and configuration of Grafana for monitoring and visualizing metrics.
-
-### ⚙️ [Laravel API](./laravel_api.md)
-Building robust APIs with Laravel, a powerful PHP framework.
-
-### 🌐 [Laravel on Nginx](./laravel_on_nginx.md)
-Deploying Laravel applications using Nginx for optimal performance and scalability.
-
-### 📈 [LibreNMS](./librenms.md)
-Network monitoring and management using LibreNMS.
-
-### 🤖 [Telegram Bot](./telegram_bot.md)
-Creating and deploying Telegram bots for automation and enhanced communication.
-
-### 📉 [Zabbix](./zabbix.md)
-Advanced monitoring solutions and configurations with Zabbix.
-
-### 📊 [Netdata](./netdata.md)
-Real-time performance monitoring and visualization with Netdata.
-
-### 🖥️ [Nginx](./nginx.md)
-Configuration and optimization of the Nginx web server for high-performance applications.
-
-### 🔍 [Nmap](./nmap.md)
-Network exploration and security auditing using Nmap.
 
 ---
 
