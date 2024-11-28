@@ -56,7 +56,7 @@ Explore the documentation for each technology by selecting the links below:
 ### 🏠 [Home](./index.md)
 An introduction to **Document-Pack** and its objectives.
 
-### 🕸️ [Django](./django.md)
+### 🕸️ [Django](./Django/readme.md)
 Comprehensive guide to setting up and developing with Django, a high-level Python web framework.
 
 ### 🐳 [Docker](./docker.md)
