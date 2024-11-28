@@ -16,7 +16,7 @@ Welcome to **Document-Pack** by **Venora Dev**! 🚀
 
 - [📖 Overview](#-overview)
 - [🗂️ Documentation](#-documentation)
-  - [🏠 Home](./index.md)
+  - [🏠 Home](./readme.md)
   - [🕸️ Django](./Django/readme.md)
   - [🐳 Docker](./docker.md)
   - [📊 Grafana](./grafana.md)
@@ -53,7 +53,7 @@ Welcome to **Document-Pack** by **Venora Dev**! 🚀
 
 Explore the documentation for each technology by selecting the links below:
 
-### 🏠 [Home](./index.md)
+### 🏠 [Home](./readme.md)
 An introduction to **Document-Pack** and its objectives.
 
 ### 🕸️ [Django](./Django/readme.md)
