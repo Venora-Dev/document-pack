@@ -17,7 +17,7 @@ Welcome to **Document-Pack** by **Venora Dev**! 🚀
 - [📖 Overview](#-overview)
 - [🗂️ Documentation](#-documentation)
   - [🏠 Home](./index.md)
-  - [🕸️ Django](./django.md)
+  - [🕸️ Django](./Django/readme.md)
   - [🐳 Docker](./docker.md)
   - [📊 Grafana](./grafana.md)
   - [⚙️ Laravel API](./laravel_api.md)
