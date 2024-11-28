@@ -3,8 +3,8 @@
 In this directory, you'll find three versions of the README file for the Django Guide:
 
 1. **[ENG.md](./ENG.md)**: The English version of the guide.
-2. **[PERSIAN.md](./PERSIAN.md)**: The Persian version of the guide.
-3. **[RUSSIAN.md](./RUSSIAN.md)**: The Russian version of the guide.
+2. **[PERSIAN.md](./persian.md)**: The Persian version of the guide.
+3. **[RUSSIAN.md](./Russian.md)**: The Russian version of the guide.
 
 ### Description
 
