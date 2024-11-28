@@ -2,9 +2,9 @@
 # 📦 Document-Pack
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributors](https://img.shields.io/github/contributors/VenoraDev/document-pack.svg)
-![Issues](https://img.shields.io/github/issues/VenoraDev/document-pack.svg)
-![Stars](https://img.shields.io/github/stars/VenoraDev/document-pack.svg)
+![Contributors](https://img.shields.io/github/contributors/Venora-Dev/document-pack.svg)
+![Issues](https://img.shields.io/github/issues/Venora-Dev/document-pack.svg)
+![Stars](https://img.shields.io/github/stars/Venora-Dev/document-pack.svg)
 
 Welcome to **Document-Pack** by **Venora Dev**! 🚀
 
